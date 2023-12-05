@@ -9,5 +9,5 @@ $ git clone
 git clone https://github.com/user_name/name-of-repo.git
 ```
 ### This is a task list
--[] complete this course
--[] rewrite my own readmes
+- [x] complete this course
+- [x] rewrite my own readmes
